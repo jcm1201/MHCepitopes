@@ -5,5 +5,5 @@ Our database catalogues **451,065** MHC peptide epitopes, each with experimental
 ![Fig 01](https://github.com/jcm1201/MHCepitopes/assets/23447756/4c20d09d-7c5a-4686-b17d-1ec0254c8bbe)
 
 ## Please cite our papers: 
-* Satoru Kawakita, Aidan Shen, Cheng-chi Chao, Zhaohui Wang, Siliangyu Cheng, Bingbing Li, **Chongming Jiang***. An Integrated Database of Experimentally Validated Major Histocompatibility Complex Epitopes for Antigen-specific Cancer Therapy. **Antibody Therapeutics **(2024).Submitted.
+* Satoru Kawakita, Aidan Shen, Cheng-chi Chao, Zhaohui Wang, Siliangyu Cheng, Bingbing Li, **Chongming Jiang***. An Integrated Database of Experimentally Validated Major Histocompatibility Complex Epitopes for Antigen-specific Cancer Therapy. **Antibody Therapeutics** (2024).Submitted.
 
