@@ -12,4 +12,4 @@ Our database catalogues **451,065** MHC peptide epitopes, each with experimental
 
 ## Please cite our papers: 
 * Satoru Kawakita, Aidan Shen, Cheng-chi Chao, Zhaohui Wang, Siliangyu Cheng, Bingbing Li, **Chongming Jiang***. An Integrated Database of Experimentally Validated Major Histocompatibility Complex Epitopes for Antigen-specific Cancer Therapy. **Antibody Therapeutics** (2024).Submitted.
-
+* Chongming Jiang* Jiangrong Li, Wei Zhang, Zhenkun Zhuang, Geng Liu, Wei Hong, Bo Li, Xiuqing Zhang, Cheng-Chi Chao*. Potential association factors for developing effective peptide- based cancer vaccines [J]. **Frontiers In Immunology**. 2022
